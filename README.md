@@ -1,2 +1,2 @@
-# python-snake-game
-Lập trình Python - Trò chơi con rắn (Snake Game)
+# Python Game
+Lập trình Python - Game
